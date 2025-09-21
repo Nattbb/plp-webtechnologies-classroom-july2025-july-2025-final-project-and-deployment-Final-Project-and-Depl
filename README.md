@@ -88,3 +88,63 @@ Deploy your project and confirm that:
 * Clean, well-organized, and commented code
 * Successful live deployment with a working link
 * Evidence of following best practices
+
+
+
+# 🌐 Multipage Website – Final Project  
+
+This is my final assignment for **PLP Web Technologies (July 2025)**.  
+The project demonstrates everything I’ve learned so far: **HTML5, CSS, JavaScript, project structuring, responsiveness, and deployment.**  
+
+🔗 **Live Website:**  
+[👉 View the Site Here](https://kyucomrade.github.io/plp-webtechnologies-classroom-july2025-final-project-and-deployment-Final-Project-KyUCOMRADE/)  
+
+---
+
+## 🎯 Purpose  
+The goal of this project was to **conceptualize, build, and deploy** a multipage website that is production-ready. It serves as:  
+- A **portfolio website** showcasing my skills and background  
+- A demonstration of responsive design principles  
+- Practice with organizing code and deploying live on GitHub Pages  
+
+---
+
+## 📂 Project Structure  
+
+plp-webtechnologies-classroom-july2025-final-project-and-deployment-Final-Project-KyUCOMRADE/
+│
+├── index.html # Homepage
+├── about.html # About Me page
+├── services.html # Services page
+├── gallery.html # Gallery/Showcase page
+├── contact.html # Contact form page
+│
+├── css/
+│ └── style.css # Stylesheet (colors, layout, themes)
+│
+├── js/
+│ └── script.js # Interactive features
+│
+├── images/ # Images (logo, profile, gallery)
+│
+└── README.md # Documentation
+
+
+---
+
+## 🛠️ Features  
+- **Responsive design** (works on desktop and mobile)  
+- **Consistent navigation bar** across all pages  
+- **Interactive elements** (menu toggle, buttons, forms)  
+- **About page with skills & call-to-action section**  
+- **Custom theme** (dark header/footer, orange highlights, light sections)  
+- **Deployment on GitHub Pages**  
+
+---
+
+## 🚀 Deployment  
+This project is deployed on **GitHub Pages**.  
+To view locally:  
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/KyUCOMRADE/plp-webtechnologies-classroom-july2025-final-project-and-deployment-Final-Project-KyUCOMRADE.git
